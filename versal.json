@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://mineguard-ai-production-124d.up.railway.app/api/:path*"
+    }
+  ]
+}
